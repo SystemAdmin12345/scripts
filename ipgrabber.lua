@@ -1,0 +1,2 @@
+print("Your IP address is " ..math.random(0, 255) .. "." .. math.random(0, 255) .. "." .. math.random(0, 255) .. "." .. math.random(0, 255))
+-- Note, this is just a joke program, do not share it. It generates ip address with random number between 0 and 255
