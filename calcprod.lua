@@ -1,3 +1,8 @@
+----- CREDITS -----
+-- Me: Making some code.
+-- ChatGPT: Adding calculate and question function and modifying some code.
+--------------
+
 local items = { 0 }
 local operations = { "" }
 local gquestionstring = ""
